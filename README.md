@@ -15,10 +15,10 @@ This application is provided "as-is".
 
 Here are the versions of the systems I used when creating it:
 
-* Ubuntu Linux 14.04.5 LTS
-* Python 2.7.6
-* Apache 2.4.7 
-* MySQL Ver 14.14 Distrib 5.5.62
+* Ubuntu Linux 14.04 LTS
+* Python 2.7
+* Apache 2.4 
+* MySQL Ver 14.14 Distrib 5.5
 
 NOTE: These instructions are to be used on "clean" server installations.  Use with existing Apache2 and MySQL systems as your own risk!!!
 
